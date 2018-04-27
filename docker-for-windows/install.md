@@ -7,7 +7,16 @@ title: Install Docker for Windows
 Docker for Windows is a desktop application based on
 [Docker Community Edition (CE)](https://www.docker.com/community-edition).
 The Docker for Windows install package includes everything you need to run
-Docker on a Windows system. 
+Docker on a Windows system. This topic describes pre-install considerations,
+and how to download and install Docker for Windows.
+
+> **Already have Docker for Windows?** If you already have
+Docker for Windows installed, and are ready to get started, skip to
+[Get started with Docker for Windows](index.md) for a quick tour of
+the command line, preferences, and tools.
+
+>**Looking for Release Notes?** Get release notes for [Stable](release-notes.md)
+>and [Edge](edge-release-notes.md) releases.
 
 > For **Windows Server on Docker Enterprise Edition**, see [Install Docker Enterprise Edition for Windows Server](/install/windows/docker-ee.md).
 
